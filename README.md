@@ -1,4 +1,4 @@
-# House Prices EDA
+# House Prices
 
 ![AI Student](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
